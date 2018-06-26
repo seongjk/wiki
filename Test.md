@@ -11,7 +11,7 @@ Test1
 
 > 인용 문장이욤
 
-```C{.line-numbers}
+```C {.line-numbers}
 #include <stdio.h>
 
 int main() {
