@@ -8,10 +8,11 @@ Test1
 
 ## title H2
 
+show disk availities by `df -h`.
 
 > 인용 문장이욤
 
-```C {.line-numbers}
+```C class:"lineNo"
 #include <stdio.h>
 
 int main() {
